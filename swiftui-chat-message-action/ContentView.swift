@@ -59,7 +59,7 @@ struct MessageListView: View {
                                 frame: frame,
                                 selectedId: $selectedId
                             )
-                        }   
+                        }
                     }
                 }
             }
